@@ -1,0 +1,10 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeur
+.vscode/
+.cursor/
+
+# Dépendances (au cas où plus tard)
+node_modules/

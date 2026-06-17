@@ -1,0 +1,1 @@
+perl -0777 -i -pe 's{<div class="vignette-img[^"]*"[^>]*>\s*<span[^>]*>\[ image[^<]*bouteilles[^<]*</span>\s*</div>}{<img src="assets/terroir-img.webp" alt="Terroir" class="vignette-img absolute inset-0 w-full h-full object-cover object-center">}s' index.html
